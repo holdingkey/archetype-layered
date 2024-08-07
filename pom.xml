@@ -3,11 +3,9 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.holdingkey</groupId>
-  <artifactId>archetypelayered-archetype</artifactId>
+  <artifactId>archetype-layered</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>maven-archetype</packaging>
-
-  <name>archetypelayered-archetype</name>
 
   <build>
     <extensions>
